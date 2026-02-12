@@ -1,7 +1,7 @@
 # Projet 1 - API Express + TypeScript
 
 API minimale construite avec **Express 5** et **TypeScript**, dans le cadre de l'exercice CI/CD Master 1 (2025-2026).
-CI.
+CI / CD.
 
 ## Routes
 
