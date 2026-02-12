@@ -20,7 +20,7 @@ API minimale construite avec **Express 5** et **TypeScript**, dans le cadre de l
 
 ```bash
 npm install        # Installer les dépendances
-npm run build      # Compiler TypeScript → dist/
+npm run build      # Compiler TypeScript -> dist/
 npm start          # Lancer le serveur (dist/index.js)
 npm run ts         # Vérifier le typage (tsc --noEmit)
 npm run lint       # Linter le code avec ESLint
