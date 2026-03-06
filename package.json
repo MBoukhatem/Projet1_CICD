@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "dist/server.js",
   "scripts": {
-    "start": "node dist/serever.js",
+    "start": "node dist/server.js",
     "ts": "tsc --noEmit",
     "build": "tsc",
     "lint": "eslint .",
